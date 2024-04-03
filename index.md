@@ -17,3 +17,4 @@ I definitely would not consider myself an expert programmer, but I put my best e
 
 As you can probably see, I did not do a great job with documentation and the project workflow. There is tons of room for improvement there, and I'm hoping to work on that through this course!
 
+If you are curious about my favorite programming language, you can find it in [This File](./README.md)
