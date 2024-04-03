@@ -23,11 +23,11 @@ If you are curious about my favorite programming language, you can find it in [T
 
 I always say, my greatest skill is being a good **listener**. I love learning, and luckily being a good listener gets me a lot of learning! Here are some other things I want to get a working understanding of in the next quarter. If I remember, I'll check things off of this list as I learn them over time.
 
-- [] Personal Finance (To Create a Saving Plan)
-- [] Mandarin Chinese
-- [] Software Engineering (This class!)
-- [] Programming in Python
-- [] Social habits for effective leadership
+- [ ] Personal Finance (To Create a Saving Plan)
+- [ ] Mandarin Chinese
+- [ ] Software Engineering (This class!)
+- [ ] Programming in Python
+- [ ] Social habits for effective leadership
 
 It's a small list, but these are the things I'm really hoping to dive into in the next 10 weeks.
 
