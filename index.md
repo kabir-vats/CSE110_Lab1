@@ -1,5 +1,10 @@
 # Self Introduction
 ### *By Kabir Vats*
+[As a Student](##Who am I as a UCSD student?)
+[As a Programmer](## Who am I as a programmer?)
+[As a Person](## Who am I as a person?)
+
+
 ## Who am I as a UCSD student?
 
 I would consider myself very involved with my University. I'm a officer for HKN (Eta Kappa Nu), a member of UAS (United Accounting Society) and I am Sixth College's Senator for UCSD's Student Government. I've prioritized extracurricular involvements because I wanted to set myself apart by developing and demonstrating soft skills through my extracurrulars while still developing outstanding technical skills. I'm excited to be taking CSE 110 with Dr. Powell because, as Dr. Powell himself says in the syllabus,
@@ -33,9 +38,9 @@ It's a small list, but these are the things I'm really hoping to dive into in th
 
 ### Resources used for this repo
 
-1. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-2. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
-3. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-4. https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support
-5. http://guides.beanstalkapp.com/version-control/common-git-commands.html
-6. https://stackoverflow.com/questions/13888223/command-to-open-file-with-git
+1. [Writing/Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. [Pull Request / Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+3. [Writing/Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+4. [Source Control](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-support)
+5. [Version Control](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
+6. [Open File with Git](https://stackoverflow.com/questions/13888223/command-to-open-file-with-git)
