@@ -1,11 +1,11 @@
 # Self Introduction
 ### *By Kabir Vats*
 
-[As a Student](##Who am I as a UCSD student?)
+[As a Student](##who-am-i-as-a-ucsd-student?)
 
-[As a Programmer](##Who am I as a programmer?)
+[As a Programmer](##Who-am-I-as-a-programmer?)
 
-[As a Person](## Who am I as a person?)
+[As a Person](##Who-am-I-as-a-person?)
 
 
 ## Who am I as a UCSD student?
