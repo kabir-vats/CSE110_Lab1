@@ -1,5 +1,6 @@
 # Self Introduction
 ### *By Kabir Vats*
+![Picture of Kabir](Screenshots/KabirPicture.png)
 
 [As a Student](##who-am-i-as-a-ucsd-student?)
 
